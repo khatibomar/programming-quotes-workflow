@@ -6,6 +6,7 @@
 
 this workflow will update your README with a programming quote every day.<br>
 static_template should be the original README . <br>
+this is a project for the github hackathons on dev.to , my post can be found [here](https://dev.to/elkhatibomar/generate-programming-quotes-in-readme-every-day-2g56)
 
 # How it works?
 
