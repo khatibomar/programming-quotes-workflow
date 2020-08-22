@@ -23,7 +23,7 @@ def main():
     author = quote_response['author']
     quote = context + " -" + author
     # print(quote)
-    static_readme = 'static_readme.md'
+    static_readme = './static_readme.md'
     write_to_readme(static_readme , quote)
 
 if __name__ == '__main__':
