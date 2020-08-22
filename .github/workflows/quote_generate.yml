@@ -25,4 +25,4 @@ jobs:
         python-version: 3.8
     - name: generate
       run: |
-        python scripts/generate_quote.py
+        python ./scripts/generate_quote.py
