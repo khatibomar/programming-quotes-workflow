@@ -1,0 +1,32 @@
+name: programming quotes generator
+
+on:
+  # workflow_dispatch allows to run your workflow manually
+  workflow_dispatch:
+  # Run workflow based on specific schedule
+  schedule:
+  # This workflow will run every day at 00:00 UTC.
+  # You can use https://crontab.guru/ if cron syntax is
+  # looking weird for you
+  - cron: "0 0 * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        git fetch --prune --unshallow
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install urllib json
+    - name: generate
+      run: |
+        python scripts/generate_quote.py
