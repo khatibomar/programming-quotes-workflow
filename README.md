@@ -6,6 +6,7 @@
 
 this workflow will update your README with a programming quote every day.<br>
 static_template should be the original README . <br>
+this is a project for the github hackathons on dev.to , my post can be found [here](https://dev.to/elkhatibomar/generate-programming-quotes-in-readme-every-day-2g56)
 
 # How it works?
 
@@ -13,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought. -Danny Hillis
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. -Tony Hoare
