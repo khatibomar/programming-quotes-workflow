@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The most important single aspect of software development is to be clear about what you are trying to build. -Bjarne Stroustrup
+Really care about the tools you use because they are what make you your best. -Addy Osmani
