@@ -14,4 +14,5 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Really care about the tools you use because they are what make you your best. -Addy Osmani
+I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language. -Douglas Crockford
