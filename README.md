@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-A good programmer is someone who looks both ways before crossing a one-way street. -Doug Linder
+JavaScript is the world's most misunderstood programming language. -Douglas Crockford
