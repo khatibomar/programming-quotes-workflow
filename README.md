@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-JavaScript is the world's most misunderstood programming language. -Douglas Crockford
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading. -Douglas Crockford
