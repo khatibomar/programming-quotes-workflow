@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading. -Douglas Crockford
+The real problem with throwaway code comes when it isn't thrown away. -Joseph Yoder (computer scientist)
