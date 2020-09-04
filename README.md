@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The real problem with throwaway code comes when it isn't thrown away. -Joseph Yoder (computer scientist)
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry. -Ted Nelson
