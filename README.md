@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry. -Ted Nelson
+Young man, in mathematics you don't understand things. You just get used to them. -John von Neumann
