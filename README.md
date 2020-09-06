@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Young man, in mathematics you don't understand things. You just get used to them. -John von Neumann
+Making things easy is hard. -Ted Nelson
