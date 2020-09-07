@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Making things easy is hard. -Ted Nelson
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. -Martin Fowler
