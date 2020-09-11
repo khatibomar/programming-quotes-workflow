@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one. -David Parnas
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. -Bjarne Stroustrup
