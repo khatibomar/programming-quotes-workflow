@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. -Bjarne Stroustrup
+The proper use of comments is to compensate for our failure to express ourself in code. -Robert C. Martin
