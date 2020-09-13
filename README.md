@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The proper use of comments is to compensate for our failure to express ourself in code. -Robert C. Martin
+A good programmer is someone who looks both ways before crossing a one-way street. -Doug Linder
