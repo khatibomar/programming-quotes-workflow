@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The more code you have, the more places there are for bugs to hide. -Rich Skrenta
+Success is a lousy teacher. It seduces smart people into thinking they can't lose. -Bill Gates
