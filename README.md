@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Success is a lousy teacher. It seduces smart people into thinking they can't lose. -Bill Gates
+The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. -Fred Brooks
