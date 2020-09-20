@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. -Fred Brooks
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. -Bill Gates
