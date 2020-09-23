@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Artificial intelligence is the science of making machines do things that would require intelligence if done by men. -Marvin Minsky
+LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts. -Edsger W. Dijkstra
