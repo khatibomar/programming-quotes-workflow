@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts. -Edsger W. Dijkstra
+What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three. -Charles Simonyi
