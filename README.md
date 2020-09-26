@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Much of the essence of building a program is in fact the debugging of the specification. -Fred Brooks
+We need to be super careful with AI. Potentially more dangerous than nukes. -Elon Musk
