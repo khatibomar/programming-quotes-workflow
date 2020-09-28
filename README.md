@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If you have a procedure with 10 parameters, you probably missed some. -Alan Perlis
+More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. -William Wulf
