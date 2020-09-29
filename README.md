@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. -William Wulf
+Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. -Andy Hertzfeld
