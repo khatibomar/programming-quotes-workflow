@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. -Andy Hertzfeld
+The best way to know that you have found the last bug is never to find the first bug. -Harlan Mills
