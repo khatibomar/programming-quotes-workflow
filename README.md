@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The best way to know that you have found the last bug is never to find the first bug. -Harlan Mills
+There is no programming language, no matter how structured, that will prevent programmers from making bad programs. -Lawrence Flon
