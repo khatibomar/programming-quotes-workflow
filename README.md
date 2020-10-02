@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-There is no programming language, no matter how structured, that will prevent programmers from making bad programs. -Lawrence Flon
+If you think it's simple, then you have misunderstood the problem. -Bjarne Stroustrup
