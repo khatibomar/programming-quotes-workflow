@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If you think it's simple, then you have misunderstood the problem. -Bjarne Stroustrup
+There is no reason anyone would want a computer in their home. -Ken Olsen
