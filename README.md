@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-There is no reason anyone would want a computer in their home. -Ken Olsen
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known. -Harlan Mills
