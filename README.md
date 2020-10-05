@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known. -Harlan Mills
+I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. -Ken Thompson
