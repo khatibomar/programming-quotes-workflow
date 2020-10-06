@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. -Ken Thompson
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. -John Romero
