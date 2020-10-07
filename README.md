@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. -John Romero
+Beware of bugs in the above code; I have only proved it correct, not tried it. -Donald Knuth
