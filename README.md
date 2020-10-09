@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected. -Daniel T. Barry
+Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects. -Daniel T. Barry
