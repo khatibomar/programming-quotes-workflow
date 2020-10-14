@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Good people with a good process will outperform good people with no process every time. -Grady Booch
+The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. -Ted Nelson
