@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. -Paul Graham (programmer)
+Everything should be made as simple as possible. But to do that you have to master complexity. -Butler Lampson
