@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Everything should be made as simple as possible. But to do that you have to master complexity. -Butler Lampson
+If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. -Gerald Weinberg
