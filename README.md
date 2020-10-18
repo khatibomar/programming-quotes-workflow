@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. -Gerald Weinberg
+While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud. -Joseph Yoder (computer scientist)
