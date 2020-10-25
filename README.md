@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs. -Simon Peyton Jones
+Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed. -Alan Perlis
