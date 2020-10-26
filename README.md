@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed. -Alan Perlis
+I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them. -Richard Hamming
