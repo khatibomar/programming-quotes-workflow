@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong. -Arthur C. Clarke
+It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. -Steve Jobs
