@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. -Steve Jobs
+In my second year in graduate school, I took a computer course and that was like lightening striking. -Ted Nelson
