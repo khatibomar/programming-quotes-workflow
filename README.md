@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written. -Bill Gates
+In programming the hard part isn’t solving problems, but deciding what problems to solve. -Paul Graham (programmer)
