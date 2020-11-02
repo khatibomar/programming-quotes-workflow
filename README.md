@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-In programming the hard part isn’t solving problems, but deciding what problems to solve. -Paul Graham (programmer)
+Young man, in mathematics you don't understand things. You just get used to them. -John von Neumann
