@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Young man, in mathematics you don't understand things. You just get used to them. -John von Neumann
+Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. -P. J. Plauger
