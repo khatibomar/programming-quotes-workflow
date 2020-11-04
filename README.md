@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. -P. J. Plauger
+First do it, then do it right, then do it better. -Addy Osmani
