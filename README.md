@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-A year spent in artificial intelligence is enough to make one believe in God. -Alan Perlis
+Every time you improve process, work becomes harder. -Daniel T. Barry
