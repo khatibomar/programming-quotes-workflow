@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Every time you improve process, work becomes harder. -Daniel T. Barry
+I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs. -Simon Peyton Jones
