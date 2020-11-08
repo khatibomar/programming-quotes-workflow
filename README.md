@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs. -Simon Peyton Jones
+Sometimes it’s just easier to throw a system away, and start over. -Joseph Yoder (computer scientist)
