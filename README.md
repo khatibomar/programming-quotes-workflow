@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer. -Bjarne Stroustrup
+Code never lies, comments sometimes do. -Ron Jeffries
