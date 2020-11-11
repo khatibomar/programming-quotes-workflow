@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Code never lies, comments sometimes do. -Ron Jeffries
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. -Alan Turing
