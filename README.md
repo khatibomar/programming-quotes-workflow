@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. -Rich Cook
+There are only two kinds of programming languages: those people always bitch about and those nobody uses. -Bjarne Stroustrup
