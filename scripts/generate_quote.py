@@ -17,9 +17,9 @@ def write_to_readme(static_readme , quote):
     open('./README.md' , 'w').writelines(lines)
 
 def main():
-    url_eng = "https://programming-quotes-api.herokuapp.com/quotes/random/lang/en/"
+    url_eng = "http://quotes.stormconsultancy.co.uk/random.json"
     quote_response = getResponse(url_eng)
-    context = quote_response['en']
+    context = quote_response['quote']
     author = quote_response['author']
     quote = context + " -" + author
     # print(quote)
