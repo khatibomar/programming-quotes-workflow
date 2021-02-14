@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. -Alan Turing
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. -Rich Cook
