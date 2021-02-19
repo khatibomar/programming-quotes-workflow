@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-It always takes longer than you expect, even when you take into account Hofstadter’s Law. -Hofstadter’s Law
+You should name a variable using the same care with which you name a first-born child. -James O. Coplien
