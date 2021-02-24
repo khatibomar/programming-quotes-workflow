@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Some people, when confronted with a problem, think “I know, I’ll use regular expressions.” Now they have two problems. -Jamie Zawinski
+Walking on water and developing software from a specification are easy if both are frozen. -Edward V Berard
