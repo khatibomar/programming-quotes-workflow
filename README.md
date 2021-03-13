@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. -Alan Kay
+It always takes longer than you expect, even when you take into account Hofstadter’s Law. -Hofstadter’s Law
