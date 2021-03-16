@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Rick Osborne
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. -Bill Gates
