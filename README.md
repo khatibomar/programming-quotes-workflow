@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Measuring programming progress by lines of code is like measuring aircraft building progress by weight. -Bill Gates
+Programming is like sex: one mistake and you’re providing support for a lifetime. -Michael Sinz
