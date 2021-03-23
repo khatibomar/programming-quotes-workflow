@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv. -Bill Sempf
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Rick Osborne
