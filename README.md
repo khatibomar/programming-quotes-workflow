@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-You should name a variable using the same care with which you name a first-born child. -James O. Coplien
+I don’t care if it works on your machine! We are not shipping your machine! -Ovidiu Platon
