@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I’ve noticed lately that the paranoid fear of computers becoming intelligent and taking over the world has almost entirely disappeared from the common culture.  Near as I can tell, this coincides with the release of MS-DOS. -Larry DeLuca
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Rick Osborne
