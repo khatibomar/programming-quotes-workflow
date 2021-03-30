@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Rick Osborne
+There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence. -Jeremy S. Anderson
