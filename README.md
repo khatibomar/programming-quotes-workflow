@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If debugging is the process of removing software bugs, then programming must be the process of putting them in. -E. W. Dijkstra
+Beware of bugs in the above code; I have only proved it correct, not tried it.  -Donald Knuth
