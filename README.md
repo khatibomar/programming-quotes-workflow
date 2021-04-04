@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg. -Bjarne Stroustrup
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing. -Dick Brandon
