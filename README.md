@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing. -Dick Brandon
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. -Rick Osborne
