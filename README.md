@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Walking on water and developing software from a specification are easy if both are frozen. -Edward V Berard
+I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone. -Bjarne Stroustrup
