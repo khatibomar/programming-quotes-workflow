@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If Java had true garbage collection, most programs would delete themselves upon execution. -Robert Sewell
+The difference between theory and practice is that in theory, there is no difference between theory and practice. -Richard Moore
