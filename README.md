@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-The difference between theory and practice is that in theory, there is no difference between theory and practice. -Richard Moore
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing. -Dick Brandon
