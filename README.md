@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If debugging is the process of removing software bugs, then programming must be the process of putting them in. -E. W. Dijkstra
+It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration. -E. W. Dijkstra
