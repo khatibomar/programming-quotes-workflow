@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration. -E. W. Dijkstra
+If Java had true garbage collection, most programs would delete themselves upon execution. -Robert Sewell
