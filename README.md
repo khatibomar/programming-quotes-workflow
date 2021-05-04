@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila. -Mitch Ratcliffe
+C++ : Where friends have access to your private members. -Gavin Russell Baker
