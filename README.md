@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-C++ : Where friends have access to your private members. -Gavin Russell Baker
+Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders. -Unknown
