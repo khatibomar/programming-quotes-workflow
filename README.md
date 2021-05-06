@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders. -Unknown
+XML is like violence – if it doesn’t solve your problems, you are not using enough of it. -Unknown
