@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-XML is like violence – if it doesn’t solve your problems, you are not using enough of it. -Unknown
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. -C. A. R. Hoare
