@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-I don’t care if it works on your machine! We are not shipping your machine! -Ovidiu Platon
+In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg. -Bjarne Stroustrup
