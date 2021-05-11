@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-In C++ it’s harder to shoot yourself in the foot, but when you do, you blow off your whole leg. -Bjarne Stroustrup
+XML is like violence – if it doesn’t solve your problems, you are not using enough of it. -Unknown
