@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing. -Dick Brandon
+There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence. -Jeremy S. Anderson
