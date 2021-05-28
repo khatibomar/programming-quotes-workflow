@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-If debugging is the process of removing software bugs, then programming must be the process of putting them in. -E. W. Dijkstra
+Saying that Java is good because it works on all platforms is like saying anal sex is good because it works on all genders. -Unknown
