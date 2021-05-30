@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-There are two major products that come out of Berkeley: LSD and UNIX.  We don’t believe this to be a coincidence. -Jeremy S. Anderson
+A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila. -Mitch Ratcliffe
