@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila. -Mitch Ratcliffe
+Two things are infinite: the universe and human stupidity; and I’m not sure about the universe. -Albert Einstein
