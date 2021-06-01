@@ -14,4 +14,4 @@ the script will generate a quote for you then he will create a new README using 
 ***
 
 quote of the day :
-Two things are infinite: the universe and human stupidity; and I’m not sure about the universe. -Albert Einstein
+Beware of bugs in the above code; I have only proved it correct, not tried it.  -Donald Knuth
