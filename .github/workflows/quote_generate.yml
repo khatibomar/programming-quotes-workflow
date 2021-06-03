@@ -4,11 +4,11 @@ on:
   # workflow_dispatch allows to run your workflow manually
   workflow_dispatch:
   # Run workflow based on specific schedule
-  schedule:
+  #schedule:
   # This workflow will run every day at 00:00 UTC.
   # You can use https://crontab.guru/ if cron syntax is
   # looking weird for you
-  - cron: "0 0 * * *"
+  #- cron: "0 0 * * *"
 
 jobs:
   build:
